@@ -1,0 +1,14 @@
+{
+  "name": "user-management",
+  "version": "1.0.0",
+  "description": "Simple user management app with nodejs (express) and redis",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "redis"
+  ],
+  "author": "MSALEK Mouad",
+  "license": "ISC"
+}
